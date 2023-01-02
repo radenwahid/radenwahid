@@ -1,4 +1,4 @@
--# 💫 About Me:
+# 💫 About Me:
 Halo, nama saya adalah Raden Wahid. Saya adalah seorang programer front end pemula yang sedang belajar tentang pengembangan web. Saat ini, saya fokus belajar tentang HTML, CSS, dan JavaScript, yang merupakan bahasa pemrograman utama yang digunakan dalam pengembangan front end.<br><br>Saya sangat tertarik dengan dunia pengembangan web karena menurut saya ini adalah bidang yang sangat menyenangkan dan terus berkembang. Saya juga senang belajar tentang cara membuat website yang terlihat indah dan mudah digunakan oleh pengguna.<br><br>Saya masih pemula, jadi saya masih terus belajar dan mencari tahu lebih banyak tentang pengembangan web. Namun, saya sangat antusias untuk terus belajar dan berkembang dalam bidang ini. Saya percaya bahwa dengan terus belajar dan bekerja keras, saya dapat menjadi seorang programer front end yang handal di kemudian hari.
 
 
